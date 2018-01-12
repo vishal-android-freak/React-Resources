@@ -42,9 +42,9 @@ function getMeSomeSortedData(garbageArray) {
 function dumpInMoreGarbage(garbageBin) {
 	garbageBin++;
 	garbageBin = garbageBin * garbageBin;
-	retuen 
+	return 
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTM5NzgwXX0=
+eyJoaXN0b3J5IjpbLTE5MzQwNjM3N119
 -->
