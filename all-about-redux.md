@@ -8,11 +8,11 @@ Redux can be classified into 3 important components (not the React component)
 
 ```mermaid
 graph TD;
-
+A
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTY2MTAzOV19
+eyJoaXN0b3J5IjpbODMzOTYyNjUyXX0=
 -->
