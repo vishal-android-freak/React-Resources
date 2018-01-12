@@ -46,7 +46,8 @@ function dumpInMoreGarbage(garbageBin) {
 	return --garbageBin;
 }
 ```
+The `state` of any component is always considered to be ***immutable***.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3ODQzODk2XX0=
+eyJoaXN0b3J5IjpbMTMxMzM4MDQ1M119
 -->
