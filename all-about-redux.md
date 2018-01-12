@@ -38,6 +38,12 @@ function getMeSomeSortedData(garbageArray) {
 	return garbageArray.map((value) => sortThisShit(value))
 }
 ```
+```javascript
+function dumpInMoreGarbage(garbageBin) {
+	garbageBin++;
+	
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mzk1MTk5N119
+eyJoaXN0b3J5IjpbLTEyNzUwNTMzMzddfQ==
 -->
