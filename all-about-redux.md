@@ -13,7 +13,7 @@ Redux --> Actions
 Redux --> Reducers
 ```
 
-The game of Redux is played so that we have a single `state ` object which defines the entire state of the application. We don't define per component states and change them using `setState({})`.  
+The game of Redux is played so that we have a single `state ` object tree, inside a single `store`, which defines the entire state of the application. We don't define per component states and change them using `setState({})`.  
 
 ```javascript
 class ReduxLove extends Component {
@@ -48,5 +48,5 @@ function dumpInMoreGarbage(garbageBin) {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEyNjUxMTRdfQ==
+eyJoaXN0b3J5IjpbNzQ3ODQzODk2XX0=
 -->
