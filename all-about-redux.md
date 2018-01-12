@@ -46,8 +46,8 @@ function dumpInMoreGarbage(garbageBin) {
 	return --garbageBin;
 }
 ```
-The `state` of any component is always considered to be ***immutable***.  In the first snippet, we see that the `map()` functions returns a new `Array`
+The `state` of any component is always considered to be ***immutable***.  In the first snippet, we see that the `map()` functions returns a new `Array` with
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUxNzk5NjZdfQ==
+eyJoaXN0b3J5IjpbNjM1NzQ1NzM2XX0=
 -->
