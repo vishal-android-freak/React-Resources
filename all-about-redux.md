@@ -16,7 +16,8 @@ Redux --> Reducers
 The game of Redux is played so that we have a single `state ` object which defines the entire state of the application. We don't define per component states and change them using `setState({})`.  
 
 ```javascript
-class ReduxLove extends Component
+class ReduxLove extends Component {
+
 ```
 
 Every component or event showing a wish to change the `state`, has to ***dispatch*** an `action` 
@@ -24,5 +25,5 @@ Every component or event showing a wish to change the `state`, has to ***dispatc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODcyOTk3XX0=
+eyJoaXN0b3J5IjpbMTQ4NzI3MDg2Ml19
 -->
