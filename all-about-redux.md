@@ -49,8 +49,8 @@ function dumpInMoreGarbage(garbageBin) {
 The `state` of any component is always considered to be ***immutable***.  In the first snippet, we observe that `map()` functions returns a new `Array` without modifying the `garbageArray`. Opposite to this, in the next snippet, our function is returning a **modified** version of the variable that is passed. This doesn't work when it comes to setting state of a component. Hence, a `reducer` always returns a new object as the modified `state` without modifying directly the `state` object.
 
 ## Why immutability of state is important?
-Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to t
+Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to track down bugs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MDc5NTZdfQ==
+eyJoaXN0b3J5IjpbMTE0MTIwMzQ1Nl19
 -->
