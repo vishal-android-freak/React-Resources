@@ -29,10 +29,8 @@ class ReduxLove extends Component {
 ## Redux process in a nutshell
 Every component or event showing a wish to change the `state`, has to ***dispatch*** an `action` which is accepted by a `reducer` function which has been given the powers of modifying the state of the application. Every reducer function should be a **pure function**.
 
-strong text
-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzk5MzU2Nl19
+eyJoaXN0b3J5IjpbLTEzMjQ4NDQ5MDRdfQ==
 -->
