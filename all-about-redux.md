@@ -3,7 +3,7 @@
 # All About Redux
 
 **
-Well, it all started few months back whe
+Well, it all started few months back when 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4NjkyNl19
+eyJoaXN0b3J5IjpbMTg2NDg5NTM2MF19
 -->
