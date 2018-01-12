@@ -4,7 +4,7 @@ Well, it all started few months back when I was first introduced to React Native
 
 ## Overview
 
-Redux can be classified into 3 important co
+Redux can be classified into 3 important components
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzA2ODYxMl19
+eyJoaXN0b3J5IjpbNjM3MzU5Njk4XX0=
 -->
