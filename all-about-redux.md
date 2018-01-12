@@ -26,10 +26,10 @@ class ReduxLove extends Component {
 }
 ```
 
-Every component or event showing a wish to change the `state`, has to ***dispatch*** an `action` 
+Every component or event showing a wish to change the `state`, has to ***dispatch*** an `action` which is accepted by a `reducer` function which has been given the powers of modifying the state of
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjA2MjM5Ml19
+eyJoaXN0b3J5IjpbLTE4NDUxMzQ5NjddfQ==
 -->
