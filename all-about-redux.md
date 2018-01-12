@@ -27,7 +27,7 @@ class ReduxLove extends Component {
 ```
 
 ## Redux process in a nutshell
-Every component or event showing a wish to change the `state`, has to ***dispatch*** an `action` which is accepted by a `reducer` function which has been given the powers of modifying the state of the application. Every reducer function should be a **pure function**. But wait, what is a pure function?
+Every component or event wanting to change the `state`, has to ***dispatch*** an `action` which is accepted by a `reducer` function which has been given the powers of modifying the state of the application. Every reducer function should be a **pure function**. But wait, what is a pure function?
 
 ## What are Pure Functions?
 
@@ -52,5 +52,5 @@ The `state` of any component is always considered to be ***immutable***.  In the
 Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to track down bugs and issues that might occur because of such behaviour.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MDc4NjhdfQ==
+eyJoaXN0b3J5IjpbLTI1NTgzODY2OV19
 -->
