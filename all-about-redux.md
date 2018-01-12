@@ -33,8 +33,8 @@ Every component or event showing a wish to change the `state`, has to ***dispatc
 
 Consider the following code snippets:
 ```javascript
-function getMeSomeSortedDa()
+function getMeSomeSortedData()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMTUwMDk2XX0=
+eyJoaXN0b3J5IjpbODEyNDcyOTNdfQ==
 -->
