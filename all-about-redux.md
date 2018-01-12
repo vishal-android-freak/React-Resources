@@ -33,8 +33,11 @@ Every component or event showing a wish to change the `state`, has to ***dispatc
 
 Consider the following code snippets:
 ```javascript
-function getMeSomeSortedData()
+
+function getMeSomeSortedData(garbageArray) {
+	return garbageArray.map((value) => sortThisShit(value))
+}
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNDcyOTNdfQ==
+eyJoaXN0b3J5IjpbMTkwNzI2NTExN119
 -->
