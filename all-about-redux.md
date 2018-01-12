@@ -17,7 +17,8 @@ The game of Redux is played so that we have a single `state ` object which defin
 
 ```javascript
 class ReduxLove extends Component {
-	constructor()
+	constructor(props) {
+	
 }
 ```
 
@@ -26,5 +27,5 @@ Every component or event showing a wish to change the `state`, has to ***dispatc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODQ5NTAxNF19
+eyJoaXN0b3J5IjpbLTc1NzY1NjY4N119
 -->
