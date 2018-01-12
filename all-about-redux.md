@@ -8,12 +8,15 @@ Redux can be classified into 3 important components (not the React component)
 
 ```mermaid
 graph TD;
-A --> B
-A --> C
+Redux --> Store
+Redux --> Actions
+Redux --> Reducers
 ```
+
+The game of Redux is played so that we have 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzM1NDIwOF19
+eyJoaXN0b3J5IjpbLTE2OTYwMzY0NThdfQ==
 -->
