@@ -4,7 +4,7 @@ Well, it all started few months back when I was first introduced to React Native
 
 ## Overview
 
-Redux can be classified i
+Redux can be classified into 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMzcwOTU0XX0=
+eyJoaXN0b3J5IjpbLTE2NDcwODg2MjFdfQ==
 -->
