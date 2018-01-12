@@ -41,9 +41,9 @@ function getMeSomeSortedData(garbageArray) {
 ```javascript
 function dumpInMoreGarbage(garbageBin) {
 	garbageBin++;
-	
+	garbageBin 
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUwNTMzMzddfQ==
+eyJoaXN0b3J5IjpbLTY2MTY5MzczNV19
 -->
