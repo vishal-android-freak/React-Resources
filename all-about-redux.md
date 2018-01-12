@@ -13,10 +13,10 @@ Redux --> Actions
 Redux --> Reducers
 ```
 
-The game of Redux is played so that we have a single `state ` object which defines the entire state of the application. We don't define per component states and change them
+The game of Redux is played so that we have a single `state ` object which defines the entire state of the application. We don't define per component states and change them using `setState({})`.  Every component or event 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ2NzA2MTldfQ==
+eyJoaXN0b3J5IjpbMTc2NTA2NTM1Ml19
 -->
