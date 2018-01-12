@@ -46,8 +46,8 @@ function dumpInMoreGarbage(garbageBin) {
 	return --garbageBin;
 }
 ```
-The `state` of any component is always considered to be ***immutable***.  In the first snippet, we observe that `map()` functions returns a new `Array` without modifying the `garbageArray`. Opposite to this, in the next snippet, our function is returning a **modified** version of the variable that is passed. This doesn't work when it comes to setting state of a component. Hence, a `reducer` always returns a new object as 
+The `state` of any component is always considered to be ***immutable***.  In the first snippet, we observe that `map()` functions returns a new `Array` without modifying the `garbageArray`. Opposite to this, in the next snippet, our function is returning a **modified** version of the variable that is passed. This doesn't work when it comes to setting state of a component. Hence, a `reducer` always returns a new object as the modified `state` without actually 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYzMDI0XX0=
+eyJoaXN0b3J5IjpbMTc2ODMyNTMwOF19
 -->
