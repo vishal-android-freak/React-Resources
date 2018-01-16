@@ -58,9 +58,10 @@ Consider a situation where multiple actions are being performed inside your appl
 myRootReducer = (state = 0, action) => {
 	switch(action.type) {
 
+	}
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDU4MTcyNl19
+eyJoaXN0b3J5IjpbMTg1Mjg4ODg4NV19
 -->
