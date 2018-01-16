@@ -52,8 +52,8 @@ The `state` of any component is always considered to be ***immutable***.  In the
 Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to track down bugs and issues that might occur because of such behaviour.
 
 ## Reducers
+`Reducers` are pure functions which accept state and action as the parameters
 
-Reducers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk2MTU3MjBdfQ==
+eyJoaXN0b3J5IjpbLTQ0ODQ5NjY3MV19
 -->
