@@ -53,6 +53,7 @@ Consider a situation where multiple actions are being performed inside your appl
 
 ## Reducers
 
+Reducers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDQxODU3N119
+eyJoaXN0b3J5IjpbLTEzMjk2MTU3MjBdfQ==
 -->
