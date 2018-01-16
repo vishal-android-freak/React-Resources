@@ -63,6 +63,8 @@ Example:
 
 `Actions` are plain Javascript object and must have a property of **'type'**. `Type` is usually defined as a string which defines the action being performed. The data dispatched inside the actions should be as minimal as possible. Other than type, the data inside the action object can be decided as per requirements.
 
+Actio
+
 ## Reducers
 `Reducers` are pure functions which accepts `state` and `action` as the parameters. Reducers tell us how the application's `state` changes, based on the `action`s sent to the store.
 
@@ -77,5 +79,5 @@ myRootReducer = (state = 0, action) => {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMwNzg0MzldfQ==
+eyJoaXN0b3J5IjpbMTEwNzcwODQ2N119
 -->
