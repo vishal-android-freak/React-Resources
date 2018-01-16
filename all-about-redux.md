@@ -61,7 +61,7 @@ Example:
 	    number: 5
 	}
 
-`Actions` are plain Javascript object with a compulsory key 'type'
+`Actions` are plain Javascript object with a compulsory key **'type'**
 
 ## Reducers
 `Reducers` are pure functions which accepts `state` and `action` as the parameters. Reducers tell us how the application's `state` changes, based on the `action`s sent to the store.
@@ -77,5 +77,5 @@ myRootReducer = (state = 0, action) => {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzc5ODA3NF19
+eyJoaXN0b3J5IjpbLTMzOTA4NzgwMl19
 -->
