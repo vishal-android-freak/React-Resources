@@ -57,11 +57,11 @@ Consider a situation where multiple actions are being performed inside your appl
 ```javascript
 myRootReducer = (state = 0, action) => {
 	switch(action.type) {
-		case: '
+		case: 'ADD'
 	}
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDA5NTIxNl19
+eyJoaXN0b3J5IjpbMTcwMzI1NDEwMl19
 -->
