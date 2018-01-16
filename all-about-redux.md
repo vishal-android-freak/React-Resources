@@ -52,8 +52,14 @@ The `state` of any component is always considered to be ***immutable***.  In the
 Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to track down bugs and issues that might occur because of such behaviour.
 
 ## Reducers
-`Reducers` are pure functions which accept state and action as the parameters
+`Reducers` are pure functions which accepts `state` and `action` as the parameters.
+
+```javascript
+myRootReducer = (state = 0, action) => {
+	switch()
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODQ5NjY3MV19
+eyJoaXN0b3J5IjpbMzU0MTY3NDgzXX0=
 -->
