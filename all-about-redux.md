@@ -61,7 +61,7 @@ Example:
 	    number: 5
 	}
 
-`Actions` are plain Javascript object and must have a property of **'type'**. Type is usually defined as a string which defines
+`Actions` are plain Javascript object and must have a property of **'type'**. Type is usually defined as a string which defines the action bein
 
 ## Reducers
 `Reducers` are pure functions which accepts `state` and `action` as the parameters. Reducers tell us how the application's `state` changes, based on the `action`s sent to the store.
@@ -77,5 +77,5 @@ myRootReducer = (state = 0, action) => {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzk2MjY3NV19
+eyJoaXN0b3J5IjpbLTE5MTYwNDY4Ml19
 -->
