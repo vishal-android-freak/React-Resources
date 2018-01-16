@@ -56,10 +56,10 @@ Consider a situation where multiple actions are being performed inside your appl
 
 ```javascript
 myRootReducer = (state = 0, action) => {
-	switch()
+	switch(action.ty)
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MTY3NDgzXX0=
+eyJoaXN0b3J5IjpbMzM5MTI3OTMwXX0=
 -->
