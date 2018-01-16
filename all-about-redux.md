@@ -51,6 +51,8 @@ The `state` of any component is always considered to be ***immutable***.  In the
 ## Why immutability of state is important?
 Consider a situation where multiple actions are being performed inside your application. Each action is trying to set the same `state` object. This is ambiguous as every action might read an unexpected value of the `state` and it would be very difficult to track down bugs and issues that might occur because of such behaviour.
 
+## Reducers
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE5NjY0NF19
+eyJoaXN0b3J5IjpbMjA1MDQxODU3N119
 -->
