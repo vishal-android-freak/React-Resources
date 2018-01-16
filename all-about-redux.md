@@ -54,6 +54,10 @@ Consider a situation where multiple actions are being performed inside your appl
 ## Actions
 `Actions` are small packets of information sent to the `store` across the application. The only possible way the `store` understands there is an event that has occurred, is through the **dispatched** actions. An action is dispatched by calling `store.dispatch()`.
 
+Example:
+
+    con
+
 ## Reducers
 `Reducers` are pure functions which accepts `state` and `action` as the parameters. Reducers tell us how the application's `state` changes, based on the `action`s sent to the store.
 
@@ -68,5 +72,5 @@ myRootReducer = (state = 0, action) => {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0OTc0ODY0XX0=
+eyJoaXN0b3J5IjpbMTI2MzQzNTYzNF19
 -->
